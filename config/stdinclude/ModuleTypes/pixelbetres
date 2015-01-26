@@ -1,0 +1,16 @@
+
+moduleType pixelbetres
+
+numSensors 1
+
+sensorType largepix
+numStripsAcross 1024
+numSegments 128
+numROCX 2
+numROCY 16
+stereoRotation 15
+resolutionLocalX 0.0068
+resolutionLocalY 0.0148
+zCorrelation multisegment
+
+plotColor 4
